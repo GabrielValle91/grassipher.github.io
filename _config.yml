@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: gvalle91@gmail.com
 copyright_name: GabrielValle91
 description: > # this means to ignore newlines until "baseurl:"
-  hmm
+   
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  GabrielValle91
